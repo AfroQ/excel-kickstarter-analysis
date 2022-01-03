@@ -21,7 +21,7 @@ Key Analysis takeaways:
 - Kickstarters launched in the summer months (between May-July) appear to result the most success, while later winter months (November-December) see a drop. Further studies may be needed to determine why.
 - A significantly low number of theater kickstarters were canceled. 
 
-![image-20220102170759594](C:\Users\nyaku\AppData\Roaming\Typora\typora-user-images\image-20220102170759594.png)
+![Theater outcomes vs launch](./resources/Theater_Outcomes_vs_Launch.png)
 
 *Figure 1: Theater Outcomes Based on Launch Date*
 
@@ -35,7 +35,7 @@ Key Analysis Takeaways:
 - 88% of plays that set goals higher than $45000 failed. 
 - None of the play kickstarter campaigns were canceled.
 
-![image-20220102165931690](C:\Users\nyaku\AppData\Roaming\Typora\typora-user-images\image-20220102165931690.png)
+![Outcomes vs Launch](./resources/Outcomes_vs_Goals.png)
 
 *Figure 2: Outcomes Based on Goal*
 
