@@ -42,6 +42,7 @@ Key Analysis Takeaways:
 ### Challenges and Difficulties Encountered
 
 - In my analysis of play kickstarter campaigns, it was difficult to establish a conclusion regarding goals mapped to outcomes based on the data provided. Further analysis would be needed.
+- The syntax format for the COUNTIFS formular and other coding exercises take some time to get used to. I was able use instructor resources, [Excel's official documentation](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us), online resources found through google, such as a [YouTube tutorial](https://www.youtube.com/watch?v=Ihkgs7T3Do0&ab_channel=TechOnTheNet) demonstrating the use of COUNTIFS. 
 
 ## Results
 
